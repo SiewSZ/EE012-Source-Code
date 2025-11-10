@@ -1,3 +1,5 @@
+Summary of the content of each folder:
+
 1) Source Code for Face Verification
 2) Source Code for Fingerprint Verification
 3) Source Code for Palm Verification
