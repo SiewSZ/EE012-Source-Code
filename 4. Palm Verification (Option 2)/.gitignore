@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large files and datasets (optional - uncomment if you DON'T want to upload these)
+# Palmprint.zip
+# Tongji_Palmprint/
+# Palmprint/Palmprint/
+
+# Personal test images (optional - uncomment to exclude)
+# palm_left_*.bmp
+# palm_right_*.bmp
+# registered_palm*.bmp
+
+# Test outputs
+Test_Results/*.png
+Test_Results/*.json
+
+# PDFs (optional - uncomment if too large)
+# *.pdf

@@ -1,0 +1,16 @@
+{
+  "img": "data/FarHand_Segmentation/valid/Hand_0001792_jpg.rf.120a2cda93ca26ec2ce94a1a2000d50f.jpg",
+  "index": 4,
+  "score": 0.9800946116447449,
+  "bbox_xyxy": [
+    1039,
+    866,
+    1161,
+    1029
+  ],
+  "tip_xy": [
+    1058,
+    887
+  ],
+  "label": 3
+}

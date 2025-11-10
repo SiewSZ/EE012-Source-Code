@@ -1,0 +1,17 @@
+probe,probe_01
+kind,auto
+agg,mean
+features,2000
+ratio,0.9
+
+rank,score,folder
+1,0.504717,gallery_076
+2,0.447925,gallery_023
+3,0.441792,gallery_183
+4,0.421792,gallery_038
+5,0.419717,gallery_165
+6,0.411415,gallery_128
+7,0.402830,gallery_116
+8,0.400000,gallery_278
+9,0.397264,gallery_114
+10,0.396132,gallery_271
